@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 22,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.autohide": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.cursorStyle": "underline",
+    "editor.cursorBlinking": "smooth",
+    "terminal.integrated.fontSize": 16,
+    "git.autofetch": true
+}

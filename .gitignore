@@ -1,0 +1,5 @@
+# Ignore all the files
+/*
+!settings.json
+!README.md
+!.gitignore
